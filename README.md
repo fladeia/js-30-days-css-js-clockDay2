@@ -1,6 +1,39 @@
-https://courses.wesbos.com/account/access/610d6d64b36fe451adb8914b/view/194130581
-CSS + JS Clock
+<h1>Clock</h1>
 
-https://github.com/wesbos/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock
+<h1>
+  <img src="https://">
+</h1>
 
-CSS: shadow-box, inset,
+<h3 align="center">
+  <a href="https://spontaneous-cupcake-85f98a.netlify.app" target="_blank">Acessar a demonstração</a>
+</h3>
+
+## 🎫 Sobre
+
+Projeto desenvolvido com HTML, CSS e Javascript. Clock.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- HTML
+- CSS
+- Javascript
+
+---
+
+## 🔗 Links úteis
+
+- [Github](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [w3schools](https://www.w3schools.com/)
+- [MDN](https://developer.mozilla.org/)
+
+---
+## Fonte
+
+- [Javascript30 - 30 days vanilla js coding challenge](https://javascript30.com/)
+
+---
+
+Desenvolvido por [LadeiaDev](https://ladeia.dev.br/)
